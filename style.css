@@ -17,7 +17,7 @@ h1 span {
 }
 
 body {
-  color: rgb(17, 19, 20);
+  color: rgba(17, 19, 20, 0.299);
 }
 
 button {
