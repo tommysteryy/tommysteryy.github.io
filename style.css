@@ -43,7 +43,7 @@ h1 span:hover .hover-change-from-text {
 
 h1 span:hover .hover-change-to-text {
   color: aquamarine;
-  font-style: italic;
+  /* font-style: italic; */
   display: inline;
 }
 
